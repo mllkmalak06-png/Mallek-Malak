@@ -1,0 +1,5 @@
+{
+  "name": "MARI Learning Path Agent",
+  "description": "An AI agent that creates structured learning paths specifically for the Algerian context, featuring deep-links to local academies and university module support.",
+  "requestFramePermissions": []
+}
